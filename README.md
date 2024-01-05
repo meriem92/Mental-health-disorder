@@ -10,6 +10,6 @@ This dataset contains informative data from countries across the globe about the
 
 # Objective
 
-What are the types of mental health disorder that people around the world suffer?
-Create a data visualization that compares and contrasts the prevalence of depression, anxiety, bipolar disorder, schizophrenia, eating disorders, alcohol use disorder and drug use disorder across different countries
+* What are the types of mental health disorder that people around the world suffer?<br>
+*Create a data visualization that compares and contrasts the prevalence of depression, anxiety, bipolar disorder, schizophrenia, eating disorders, alcohol use disorder and drug use disorder across different countries <br>
 Create a data visualization that compares he prevalence of those mental health disorders by continent in 2017
